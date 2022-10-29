@@ -1,8 +1,8 @@
 #include <unistd.h>
 /**
- * Main
+ * Main-program entry point
  *
- * Return
+ * Return: 1 on success
  */
 int main(void)
 {
